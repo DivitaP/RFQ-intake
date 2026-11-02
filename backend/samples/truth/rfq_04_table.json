@@ -1,0 +1,105 @@
+{
+ "id": "rfq_04_table",
+ "items": [
+  {
+   "item_type": "reducer",
+   "size": "6x4",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A234-WPB",
+   "end_connection": "BW",
+   "quantity": 20.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "pipe",
+   "size": "10",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A312-TP316L",
+   "end_connection": "PE",
+   "quantity": 240.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "pipe",
+   "size": "3",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A106-B",
+   "end_connection": "PE",
+   "quantity": 42.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "tee",
+   "size": "3/4",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 50.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "pipe",
+   "size": "10",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A312-TP316L",
+   "end_connection": "BW",
+   "quantity": 240.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "pipe",
+   "size": "3",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A106-B",
+   "end_connection": "BW",
+   "quantity": 240.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "elbow_90",
+   "size": "1/2",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 12.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "1-1/2",
+   "schedule": null,
+   "pressure_class": "6000",
+   "material": "A105",
+   "end_connection": "THD",
+   "quantity": 50.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "valve_ball",
+   "size": "3",
+   "schedule": null,
+   "pressure_class": "300",
+   "material": "A216-WCB",
+   "end_connection": "RF",
+   "quantity": 4.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "elbow_90",
+   "size": "3/4",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 12.0,
+   "uom": "EA"
+  }
+ ]
+}

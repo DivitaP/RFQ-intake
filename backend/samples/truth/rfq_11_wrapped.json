@@ -1,0 +1,75 @@
+{
+ "id": "rfq_11_wrapped",
+ "items": [
+  {
+   "item_type": "cap",
+   "size": "4",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A403-WP316L",
+   "end_connection": "BW",
+   "quantity": 8.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "elbow_90",
+   "size": "8",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A234-WPB",
+   "end_connection": "BW",
+   "quantity": 4.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "1-1/2",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A105",
+   "end_connection": "THD",
+   "quantity": 5.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "pipe",
+   "size": "4",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A53-B",
+   "end_connection": "BW",
+   "quantity": 120.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "elbow_90",
+   "size": "1/2",
+   "schedule": null,
+   "pressure_class": "6000",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 12.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "flange_blind",
+   "size": "2",
+   "schedule": null,
+   "pressure_class": "150",
+   "material": "A350-LF2",
+   "end_connection": "RF",
+   "quantity": 2.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "flange_blind",
+   "size": "10",
+   "schedule": null,
+   "pressure_class": "150",
+   "material": "A105",
+   "end_connection": "RF",
+   "quantity": 8.0,
+   "uom": "EA"
+  }
+ ]
+}

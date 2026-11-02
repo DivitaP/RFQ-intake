@@ -1,0 +1,75 @@
+{
+ "id": "rfq_03_table",
+ "items": [
+  {
+   "item_type": "flange_wn",
+   "size": "12",
+   "schedule": null,
+   "pressure_class": "300",
+   "material": "A105",
+   "end_connection": "RF",
+   "quantity": 16.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "elbow_90",
+   "size": "4",
+   "schedule": "SCH 40",
+   "pressure_class": null,
+   "material": "A403-WP316L",
+   "end_connection": "BW",
+   "quantity": 10.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "flange_so",
+   "size": "10",
+   "schedule": null,
+   "pressure_class": "150",
+   "material": "A105",
+   "end_connection": "RF",
+   "quantity": 8.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "flange_wn",
+   "size": "3",
+   "schedule": null,
+   "pressure_class": "600",
+   "material": "A182-F316L",
+   "end_connection": "RF",
+   "quantity": 2.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "flange_so",
+   "size": "4",
+   "schedule": null,
+   "pressure_class": "150",
+   "material": "A182-F316L",
+   "end_connection": "RTJ",
+   "quantity": 6.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "valve_check",
+   "size": "1/2",
+   "schedule": null,
+   "pressure_class": "800",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 4.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "elbow_90",
+   "size": "6",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A403-WP316L",
+   "end_connection": "BW",
+   "quantity": 20.0,
+   "uom": "EA"
+  }
+ ]
+}

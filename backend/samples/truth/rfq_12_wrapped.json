@@ -1,0 +1,65 @@
+{
+ "id": "rfq_12_wrapped",
+ "items": [
+  {
+   "item_type": "reducer",
+   "size": "6x4",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A403-WP316L",
+   "end_connection": "BW",
+   "quantity": 12.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "valve_gate",
+   "size": "3",
+   "schedule": null,
+   "pressure_class": "150",
+   "material": "A216-WCB",
+   "end_connection": "RF",
+   "quantity": 6.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "union",
+   "size": "2",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 25.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "2",
+   "schedule": "SCH 40",
+   "pressure_class": null,
+   "material": "A234-WPB",
+   "end_connection": "BW",
+   "quantity": 2.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "coupling",
+   "size": "1/2",
+   "schedule": null,
+   "pressure_class": "6000",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 25.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "3/4",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A105",
+   "end_connection": "THD",
+   "quantity": 10.0,
+   "uom": "EA"
+  }
+ ]
+}

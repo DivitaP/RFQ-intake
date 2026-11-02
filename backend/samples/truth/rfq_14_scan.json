@@ -1,0 +1,85 @@
+{
+ "id": "rfq_14_scan",
+ "items": [
+  {
+   "item_type": "elbow_90",
+   "size": "4",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A403-WP316L",
+   "end_connection": "BW",
+   "quantity": 2.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "elbow_90",
+   "size": "4",
+   "schedule": "SCH 40",
+   "pressure_class": null,
+   "material": "A234-WPB",
+   "end_connection": "BW",
+   "quantity": 2.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "union",
+   "size": "1/2",
+   "schedule": null,
+   "pressure_class": "6000",
+   "material": "A182-F316L",
+   "end_connection": "THD",
+   "quantity": 25.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "1",
+   "schedule": null,
+   "pressure_class": "6000",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 50.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "flange_so",
+   "size": "8",
+   "schedule": null,
+   "pressure_class": "150",
+   "material": "A105",
+   "end_connection": "RF",
+   "quantity": 16.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "pipe",
+   "size": "10",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A106-B",
+   "end_connection": "PE",
+   "quantity": 120.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "valve_globe",
+   "size": "1",
+   "schedule": null,
+   "pressure_class": "800",
+   "material": "A105",
+   "end_connection": "THD",
+   "quantity": 3.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "8",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A403-WP316L",
+   "end_connection": "BW",
+   "quantity": 6.0,
+   "uom": "EA"
+  }
+ ]
+}

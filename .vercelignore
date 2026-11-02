@@ -1,0 +1,7 @@
+backend/samples
+backend/tests
+backend/.llm_cache.json
+backend/.venv
+frontend/node_modules
+frontend/dist
+**/__pycache__

@@ -1,0 +1,85 @@
+{
+ "id": "rfq_02_table",
+ "items": [
+  {
+   "item_type": "elbow_90",
+   "size": "6",
+   "schedule": "SCH 40",
+   "pressure_class": null,
+   "material": "A234-WPB",
+   "end_connection": "BW",
+   "quantity": 20.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "3",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A234-WPB",
+   "end_connection": "BW",
+   "quantity": 20.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "tee",
+   "size": "1-1/2",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A182-F316L",
+   "end_connection": "THD",
+   "quantity": 10.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "flange_blind",
+   "size": "4",
+   "schedule": null,
+   "pressure_class": "600",
+   "material": "A182-F316L",
+   "end_connection": "RTJ",
+   "quantity": 4.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "elbow_90",
+   "size": "3",
+   "schedule": "SCH 40",
+   "pressure_class": null,
+   "material": "A403-WP316L",
+   "end_connection": "BW",
+   "quantity": 4.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "pipe",
+   "size": "8",
+   "schedule": "SCH 40",
+   "pressure_class": null,
+   "material": "A53-B",
+   "end_connection": "PE",
+   "quantity": 21.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "reducer",
+   "size": "6x4",
+   "schedule": "SCH 40",
+   "pressure_class": null,
+   "material": "A403-WP316L",
+   "end_connection": "BW",
+   "quantity": 20.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "1/2",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A182-F316L",
+   "end_connection": "THD",
+   "quantity": 25.0,
+   "uom": "EA"
+  }
+ ]
+}

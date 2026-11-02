@@ -1,0 +1,114 @@
+[
+ {
+  "id": "rfq_01_table",
+  "file": "rfq_01_table.pdf",
+  "layout": "table",
+  "title": "Clean tabular RFQ",
+  "n_items": 8
+ },
+ {
+  "id": "rfq_02_table",
+  "file": "rfq_02_table.pdf",
+  "layout": "table",
+  "title": "Clean tabular RFQ",
+  "n_items": 8
+ },
+ {
+  "id": "rfq_03_table",
+  "file": "rfq_03_table.pdf",
+  "layout": "table",
+  "title": "Clean tabular RFQ",
+  "n_items": 7
+ },
+ {
+  "id": "rfq_04_table",
+  "file": "rfq_04_table.pdf",
+  "layout": "table",
+  "title": "Clean tabular RFQ",
+  "n_items": 10
+ },
+ {
+  "id": "rfq_05_table",
+  "file": "rfq_05_table.pdf",
+  "layout": "table",
+  "title": "Clean tabular RFQ",
+  "n_items": 6
+ },
+ {
+  "id": "rfq_06_email",
+  "file": "rfq_06_email.pdf",
+  "layout": "email",
+  "title": "Free-text email RFQ",
+  "n_items": 6
+ },
+ {
+  "id": "rfq_07_email",
+  "file": "rfq_07_email.pdf",
+  "layout": "email",
+  "title": "Free-text email RFQ",
+  "n_items": 8
+ },
+ {
+  "id": "rfq_08_email",
+  "file": "rfq_08_email.pdf",
+  "layout": "email",
+  "title": "Free-text email RFQ",
+  "n_items": 12
+ },
+ {
+  "id": "rfq_09_email",
+  "file": "rfq_09_email.pdf",
+  "layout": "email",
+  "title": "Free-text email RFQ",
+  "n_items": 6
+ },
+ {
+  "id": "rfq_10_wrapped",
+  "file": "rfq_10_wrapped.pdf",
+  "layout": "wrapped",
+  "title": "Table with wrapped descriptions",
+  "n_items": 11
+ },
+ {
+  "id": "rfq_11_wrapped",
+  "file": "rfq_11_wrapped.pdf",
+  "layout": "wrapped",
+  "title": "Table with wrapped descriptions",
+  "n_items": 7
+ },
+ {
+  "id": "rfq_12_wrapped",
+  "file": "rfq_12_wrapped.pdf",
+  "layout": "wrapped",
+  "title": "Table with wrapped descriptions",
+  "n_items": 6
+ },
+ {
+  "id": "rfq_13_scan",
+  "file": "rfq_13_scan.png",
+  "layout": "scan",
+  "title": "Scanned RFQ",
+  "n_items": 6
+ },
+ {
+  "id": "rfq_14_scan",
+  "file": "rfq_14_scan.png",
+  "layout": "scan",
+  "title": "Scanned RFQ",
+  "n_items": 8
+ },
+ {
+  "id": "rfq_15_scan",
+  "file": "rfq_15_scan.pdf",
+  "layout": "scan",
+  "title": "Scanned RFQ",
+  "n_items": 8
+ },
+ {
+  "id": "rfq_16_eml",
+  "file": "rfq_16_eml.eml",
+  "layout": "eml",
+  "title": "Email + PDF attachment",
+  "n_items": 10
+ }
+]

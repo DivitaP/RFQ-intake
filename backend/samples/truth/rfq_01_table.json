@@ -1,0 +1,85 @@
+{
+ "id": "rfq_01_table",
+ "items": [
+  {
+   "item_type": "valve_globe",
+   "size": "2",
+   "schedule": null,
+   "pressure_class": "600",
+   "material": "A216-WCB",
+   "end_connection": "RF",
+   "quantity": 3.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "3/4",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A105",
+   "end_connection": "THD",
+   "quantity": 25.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "pipe",
+   "size": "2",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A312-TP316L",
+   "end_connection": "BW",
+   "quantity": 240.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "pipe",
+   "size": "3",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A106-B",
+   "end_connection": "PE",
+   "quantity": 21.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "valve_gate",
+   "size": "3",
+   "schedule": null,
+   "pressure_class": "300",
+   "material": "A216-WCB",
+   "end_connection": "RF",
+   "quantity": 2.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "cap",
+   "size": "1",
+   "schedule": null,
+   "pressure_class": "6000",
+   "material": "A182-F316L",
+   "end_connection": "SW",
+   "quantity": 5.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "tee",
+   "size": "1",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A182-F316L",
+   "end_connection": "SW",
+   "quantity": 50.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "pipe",
+   "size": "3",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A312-TP316L",
+   "end_connection": "PE",
+   "quantity": 120.0,
+   "uom": "FT"
+  }
+ ]
+}

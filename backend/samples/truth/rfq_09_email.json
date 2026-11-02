@@ -1,0 +1,65 @@
+{
+ "id": "rfq_09_email",
+ "items": [
+  {
+   "item_type": "tee",
+   "size": "2",
+   "schedule": "SCH 40",
+   "pressure_class": null,
+   "material": "A234-WPB",
+   "end_connection": "BW",
+   "quantity": 4.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "flange_blind",
+   "size": "4",
+   "schedule": null,
+   "pressure_class": "300",
+   "material": "A182-F316L",
+   "end_connection": "RF",
+   "quantity": 16.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "pipe",
+   "size": "10",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A53-B",
+   "end_connection": "PE",
+   "quantity": 63.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "pipe",
+   "size": "8",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A106-B",
+   "end_connection": "BW",
+   "quantity": 42.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "pipe",
+   "size": "10",
+   "schedule": "SCH 80",
+   "pressure_class": null,
+   "material": "A312-TP316L",
+   "end_connection": "PE",
+   "quantity": 120.0,
+   "uom": "FT"
+  },
+  {
+   "item_type": "flange_wn",
+   "size": "6",
+   "schedule": null,
+   "pressure_class": "150",
+   "material": "A105",
+   "end_connection": "RF",
+   "quantity": 4.0,
+   "uom": "EA"
+  }
+ ]
+}

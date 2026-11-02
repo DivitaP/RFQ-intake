@@ -1,0 +1,65 @@
+{
+ "id": "rfq_06_email",
+ "items": [
+  {
+   "item_type": "tee",
+   "size": "1",
+   "schedule": null,
+   "pressure_class": "3000",
+   "material": "A105",
+   "end_connection": "THD",
+   "quantity": 12.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "valve_check",
+   "size": "1",
+   "schedule": null,
+   "pressure_class": "800",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 3.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "elbow_45",
+   "size": "6",
+   "schedule": "SCH 40",
+   "pressure_class": null,
+   "material": "A234-WPB",
+   "end_connection": "BW",
+   "quantity": 6.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "tee",
+   "size": "3/4",
+   "schedule": null,
+   "pressure_class": "6000",
+   "material": "A105",
+   "end_connection": "SW",
+   "quantity": 12.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "flange_wn",
+   "size": "6",
+   "schedule": null,
+   "pressure_class": "150",
+   "material": "A350-LF2",
+   "end_connection": "RF",
+   "quantity": 6.0,
+   "uom": "EA"
+  },
+  {
+   "item_type": "elbow_90",
+   "size": "2",
+   "schedule": "STD",
+   "pressure_class": null,
+   "material": "A403-WP316L",
+   "end_connection": "BW",
+   "quantity": 20.0,
+   "uom": "EA"
+  }
+ ]
+}
